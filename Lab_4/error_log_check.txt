@@ -1,0 +1,124 @@
+Sep 16 12:48:28 kate-VirtualBox NetworkManager[480]: <warn>  [1600282108.9219] Error: failed to open /run/network/ifstate
+Sep 16 12:48:29 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:48:31 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:48:35 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:48:39 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:48:39 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:48:41 kate-VirtualBox /usr/lib/gdm3/gdm-x-session[903]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Sep 16 12:48:45 kate-VirtualBox gnome-session-c[1200]: Error creating FIFO: File exists
+Sep 16 12:48:48 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:48:54 kate-VirtualBox gnome-shell[1245]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Sep 16 12:49:01 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:49:09 kate-VirtualBox pulseaudio[889]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Sep 16 12:49:22 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:49:22 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:49:33 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:50:19 kate-VirtualBox tracker-miner-f[892]:   (Sparql buffer) Error in task 0 (file:///home/kate/Documents/lab_4) of the array-update: UNIQUE constraint failed: nie:DataObject.nie:url
+Sep 16 12:50:22 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:50:22 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:50:37 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:51:18 kate-VirtualBox tracker-miner-f[892]:   (Sparql buffer) Error in task 0 (file:///home/kate/Documents/lab_4) of the array-update: UNIQUE constraint failed: nie:DataObject.nie:url
+Sep 16 12:51:18 kate-VirtualBox tracker-miner-f[892]:   (Sparql buffer) Error in task 0 (file:///home/kate/Documents/lab_4) of the array-update: UNIQUE constraint failed: nie:DataObject.nie:url
+Sep 16 12:52:45 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:57:01 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:02:01 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:07:01 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:12:01 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:17:01 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:17:41 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:17:41 kate-VirtualBox systemd-resolved[436]: message repeated 3 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Sep 16 13:22:01 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:22:12 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:22:14 kate-VirtualBox systemd-resolved[436]: message repeated 3 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Sep 16 13:25:54 kate-VirtualBox gnome-shell[1245]: JS ERROR: TypeError: area is null#012padArea@resource:///org/gnome/shell/ui/workspace.js:1101:9#012_updateWindowPositions@resource:///org/gnome/shell/ui/workspace.js:1334:20#012_realRecalculateWindowPositions@resource:///org/gnome/shell/ui/workspace.js:1311:14#012_recalculateWindowPositions/this._positionWindowsId<@resource:///org/gnome/shell/ui/workspace.js:1286:18
+Sep 16 13:27:01 kate-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:31:33 kate-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 16 13:31:33 kate-VirtualBox kernel: [    0.997076] RAS: Correctable Errors collector initialized.
+Sep 16 13:31:33 kate-VirtualBox kernel: [    2.819183] EXT4-fs (sda5): re-mounted. Opts: errors=remount-ro
+Sep 16 13:31:33 kate-VirtualBox kernel: [    3.014470] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Sep 16 13:31:33 kate-VirtualBox kernel: [    3.044105] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Sep 16 13:31:33 kate-VirtualBox thermald[524]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 16 13:31:33 kate-VirtualBox thermald[524]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 16 13:31:33 kate-VirtualBox thermald[524]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 16 13:31:34 kate-VirtualBox NetworkManager[486]: <warn>  [1600284694.9108] Error: failed to open /run/network/ifstate
+Sep 16 13:31:35 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:31:37 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:31:41 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:31:45 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:31:45 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:31:46 kate-VirtualBox /usr/lib/gdm3/gdm-x-session[892]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Sep 16 13:31:48 kate-VirtualBox gnome-session-c[1150]: Error creating FIFO: File exists
+Sep 16 13:31:49 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:31:55 kate-VirtualBox gnome-shell[1196]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Sep 16 13:32:10 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:32:10 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:32:12 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:32:13 kate-VirtualBox pulseaudio[872]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Sep 16 13:32:38 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:33:42 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:35:50 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:40:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:45:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:48:11 kate-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 16 13:50:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:55:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:55:43 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:55:44 kate-VirtualBox systemd-resolved[443]: message repeated 3 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Sep 16 14:00:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:05:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:10:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:15:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:20:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:25:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:30:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:35:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:40:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:45:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:50:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:55:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 15:00:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 15:05:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 15:10:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 15:15:09 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 15:20:06 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 15:45:19 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 15:50:19 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 15:55:19 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 16:00:19 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 16:05:19 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 16:10:19 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 16:15:19 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 16:20:20 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 16:25:19 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 16:30:19 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 16:35:19 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 11:55:50 kate-VirtualBox kernel: [    0.874302] RAS: Correctable Errors collector initialized.
+Sep 21 11:55:50 kate-VirtualBox kernel: [    2.741772] EXT4-fs (sda5): re-mounted. Opts: errors=remount-ro
+Sep 21 11:55:50 kate-VirtualBox kernel: [    2.956376] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Sep 21 11:55:50 kate-VirtualBox kernel: [    2.972807] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Sep 21 11:55:50 kate-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 21 11:55:50 kate-VirtualBox thermald[525]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 21 11:55:50 kate-VirtualBox thermald[525]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 21 11:55:50 kate-VirtualBox thermald[525]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 21 11:55:52 kate-VirtualBox NetworkManager[486]: <warn>  [1600710952.2807] Error: failed to open /run/network/ifstate
+Sep 21 11:56:02 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 11:56:02 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 11:56:02 kate-VirtualBox /usr/lib/gdm3/gdm-x-session[894]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Sep 21 11:56:05 kate-VirtualBox gnome-session-c[1177]: Error creating FIFO: File exists
+Sep 21 11:56:11 kate-VirtualBox gnome-shell[1212]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Sep 21 11:56:25 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 11:56:25 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 11:56:29 kate-VirtualBox pulseaudio[877]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Sep 21 11:57:26 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 11:57:26 kate-VirtualBox systemd-resolved[443]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 14:16:01 kate-VirtualBox kernel: [    0.863633] RAS: Correctable Errors collector initialized.
+Sep 21 14:16:01 kate-VirtualBox kernel: [    2.594381] EXT4-fs (sda5): re-mounted. Opts: errors=remount-ro
+Sep 21 14:16:01 kate-VirtualBox kernel: [    2.790376] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Sep 21 14:16:01 kate-VirtualBox kernel: [    2.791936] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Sep 21 14:16:01 kate-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 21 14:16:01 kate-VirtualBox thermald[524]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 21 14:16:01 kate-VirtualBox thermald[524]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 21 14:16:01 kate-VirtualBox thermald[524]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 21 14:16:02 kate-VirtualBox NetworkManager[486]: <warn>  [1600719362.9398] Error: failed to open /run/network/ifstate
+Sep 21 14:16:12 kate-VirtualBox /usr/lib/gdm3/gdm-x-session[897]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Binary file /var/log/syslog matches
