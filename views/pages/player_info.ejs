@@ -1,0 +1,95 @@
+<% include ../partials/header %>
+<% include ../partials/menu %>
+	<div class="container">
+		<br>
+		<div class="row">
+			<div class="col-4">
+				<div class="card">
+				<!-- TODO: Modify the ejs code below, to conditionally set the img_src to be from our chosen player -->
+				  <% 
+				  var tempImage = '../resources/img/helmet.jpg';
+				  if(player)
+				  {
+					  tempImage = player[0].img_src;
+				  }
+				  %>
+				 <img class="card-img-top" id="player_img" src= "<%- tempImage %>" alt="Image of Football Player">
+				  <div class="card-body mx-auto">
+					<form class="form"action="/player_info/post" method="get">
+						<select class="custom-select" name="player_choice" onchange="this.form.submit()">
+							 <option selected>Select Player</option>
+							 <!-- TODO: Populate our select with player options
+							 			For each player, set a new option with a value matching the palyer's id, 
+										 but will display the player's name-->
+								<%
+								if(data)
+								{
+									var pickPlayer='';
+									
+									data.forEach(function(item){
+										pickPlayer+= '<option value ="' + item.id + '">' + item.name +'</option>'; 
+									}); %>
+									<%- pickPlayer%>
+								 <% } %>
+
+
+
+						</select>
+					</form>
+				  </div>
+				</div>
+			</div>
+			<div class="col-8">
+				<div class="table-responsive">
+					<table class="table">
+						<tr>
+							<!-- TODO: Set Player Information
+							 			If a player has been selected, fill in their information in each of the fields below.
+											 You'll need to calculate here the player's average rushing, receiving, and passing yards.-->
+
+											 <%
+											 if(player)
+											 {
+												 var year = player[0].year;
+												 var major = player[0].major;
+												 var games_played = gamesPlayed.count;
+												 var passingYrds = player[0].passing_yards;
+												 var avgPassingYrds = Math.round(passingYrds / games_played*100)/100;
+												 var rushingYrds = player[0].rushing_yards;
+												 var avgRushingYrds = Math.round(rushingYrds / games_played*100)/100;
+												 var receivingYrds = player[0].receiving_yards;
+												 var avgRecievingYrds = Math.round((receivingYrds / games_played)*100)/100;
+												 var image = player[0].img_src;
+											 }
+											 %>
+							<th>Year</th>
+							<td><%- year%>	</td>
+						</tr>
+						<tr>
+							<th>Major</th>
+							<td><%- major%>	</td>
+						</tr>
+						<tr>
+							<th>Games Played</th>
+							<td><%- games_played%>	</td>
+						</tr>
+						<tr>
+							<td>Passing Yards: <%- passingYrds%> </td>
+							<td>Average Passing Yards: <%- avgPassingYrds%></td>
+						</tr>
+						<tr>
+							<td>Rushing Yards: <%- rushingYrds%></td>
+							<td>Average Rushing Yards: <%- avgRushingYrds%></td>
+						</tr>
+						<tr>
+							<td>Receiving Yards: <%- receivingYrds%></td>
+							<td>Average Receiving Yards: <%- avgRecievingYrds%></td>
+						</tr>
+					</table>			
+
+				</div>
+			</div>
+		</div>
+	</div>
+  
+<% include ../partials/footer %>
